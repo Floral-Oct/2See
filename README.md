@@ -1,7 +1,7 @@
 # 2See
 Swift 2019.
 
-- The name of my app is called “2See”. -
+- The name of my app is called “2See”. 
 
 2See contains a series of vision training exercises from Leo Angart’s book. 
 You can find pictures, instructions and videos on how to perform these exerices. 
